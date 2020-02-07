@@ -1,6 +1,5 @@
 node_modules
 .rpt2_cache
-.env*
 
 tmp
 proto
@@ -9,3 +8,4 @@ weights_unused
 docs
 out
 build
+config.bat
